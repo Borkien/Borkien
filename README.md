@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hey there 👋
 
-I'm Bork, a Network and Cybersecurity student in Norway.
+I'm Bork, a Network and Cybersecurity student and Operations Tech in Norway.
 
 I mainly work with tools like Packet Tracer and Wireshark.
 
-I'm currently expanding my skill set with automation and API's. I'm excited to upload these projects as I work on them.
+I'm currently expanding my skill set with automation and API's. I'm excited to upload projects as I work on them.
 Everything here is built from scratch, no copy/paste.
 
 ---
@@ -18,7 +18,7 @@ Everything here is built from scratch, no copy/paste.
 
 ### About me
 
-* 🛠️**Operations Tech**
+* 🧩**I like building things that solve problems**
 * 🏂**Snowboard adrenaline junkie**
 * ⚡**Avid Redbull enjoyer**
 <!--
