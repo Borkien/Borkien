@@ -9,14 +9,14 @@ Everything here is built from scratch, no copy/paste.
 
 ---
 
-# Tools & Tech
+### Tools & Tech
 
 * Packet Tracer, Wireshark
 * Python
 
 ---
 
-About me
+### About me
 
 * Operations Tech
 * Snowboard adrenaline junkie
