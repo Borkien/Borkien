@@ -11,16 +11,16 @@ Everything here is built from scratch, no copy/paste.
 
 ### Tools & Tech
 
-* Packet Tracer, Wireshark
-* Python
+* **Packet Tracer, Wireshark**
+* **Python**
 
 ---
 
 ### About me
 
-* Operations Tech
-* Snowboard adrenaline junkie
-* Avid Redbull enjoyer
+* 🛠️**Operations Tech**
+* 🏂**Snowboard adrenaline junkie**
+* ⚡**Avid Redbull enjoyer**
 <!--
 **BorkWal/BorkWal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
