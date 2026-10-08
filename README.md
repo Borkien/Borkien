@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Bork, a Network and Cybersecurity student and Operations Tech in Norway.
+I'm Borkien, a Cybersecurity student and Operations Tech in Norway.
 
 I mainly work with tools like Packet Tracer and Wireshark.
 
