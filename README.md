@@ -1,10 +1,10 @@
-## Hey there 👋
+## Hey there 
 
-I'm Borkien, a Cybersecurity student and Operations Tech in Norway.
+I'm Aslak, a Cybersecurity student and an Operations Tech
 
 I mainly work with tools like Packet Tracer and Wireshark.
 
-I'm currently expanding my skill set with automation and API's. I'm excited to upload projects as I work on them.
+I'm currently expanding my skill set with automation, API's, and some other passion projects.
 Everything here is built from scratch, no copy/paste.
 
 ---
@@ -18,7 +18,7 @@ Everything here is built from scratch, no copy/paste.
 
 ### About me
 
-* 🧩**I like building things that solve problems**
+* 😳**I occasionally build dumb things like a motion detecting speaker that screams**
 * 🏂**Snowboard adrenaline junkie**
 * ⚡**Avid Redbull enjoyer**
 <!--
