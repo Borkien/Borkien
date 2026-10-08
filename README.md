@@ -6,14 +6,10 @@ I mainly work with tools like Packet Tracer and Wireshark.
 
 I'm currently expanding my skill set with automation, API's, and some other passion projects.
 
----
-
 ### Tools & Tech
 
 * **Packet Tracer, Wireshark**
 * **Python**
-
----
 
 ### About me
 
