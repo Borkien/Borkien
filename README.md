@@ -1,6 +1,8 @@
 ### Hi there! <img src="https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" width="25px">
 
-I'm Aslak, a Cybersecurity student and an Operations Tech. I mainly use tools related to networks and security, like Packet Tracer and Wireshark. Most of my projects are pure passion fueled which lead to some useful things like a subnet calculator, and some not so useful things like a motion detecting speaker that screams when an unfortunate victim walks by.
+I'm Aslak, a Cybersecurity student and an Operations Tech. I mainly use tools related to networks and security, like Packet Tracer and Wireshark.
+
+Most of my projects are purely passion-fueled, which can lead to some useful things like a subnet calculator, or some not so useful things like a motion-detecting speaker that screams when an unfortunate victim walks by.
 
 Outside of work and school, I love snowboarding, working out, and video games.
 <!--
