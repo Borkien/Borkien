@@ -4,7 +4,7 @@ I'm Aslak, a Cybersecurity student and Operations Tech. I mainly use tools relat
 
 Most of my projects are purely passion-fueled, which can lead to some useful things like a subnet calculator, or some not so useful things like a motion-sensing speaker that screams when an unfortunate victim walks by (used to ward off birds from eating koi fish in a pond - it didn't work).
 
-Outside of work and school, I love snowboarding, working out, and video games.
+Outside of work and school, I love snowboarding, working out, and playing video games.
 <!--
 **BorkWal/BorkWal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
