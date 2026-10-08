@@ -1,4 +1,4 @@
-## Hey there 
+## Hey there <img src="https://raw.githubusercontent.com/MartinLaxe/MartinLaxe/main/waving-hand.gif" width="30px">
 
 I'm Aslak, a Cybersecurity student and an Operations Tech
 
